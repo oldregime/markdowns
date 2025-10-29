@@ -1,0 +1,35 @@
+.
+├── ./00-INBOX
+│   ├── ./00-INBOX/Downloads
+│   ├── ./00-INBOX/Screenshots
+│   └── ./00-INBOX/Temp
+├── ./01-PROJECTS
+├── ./02-AREAS
+│   ├── ./02-AREAS/020-Personal
+│   │   ├── ./02-AREAS/020-Personal/Finances
+│   │   └── ./02-AREAS/020-Personal/Health
+│   ├── ./02-AREAS/021-Work
+│   └── ./02-AREAS/022-Learning
+├── ./03-RESOURCES
+│   ├── ./03-RESOURCES/040-Books
+│   ├── ./03-RESOURCES/041-Tutorials
+│   └── ./03-RESOURCES/042-Templates
+├── ./04-ARCHIVES
+│   ├── ./04-ARCHIVES/061-OldProjects
+│   ├── ./04-ARCHIVES/062-ObsoleteNotes
+│   └── ./04-ARCHIVES/063-Photos-Old
+├── ./90-MEDIA
+│   ├── ./90-MEDIA/901-Photos
+│   ├── ./90-MEDIA/902-Videos
+│   └── ./90-MEDIA/903-Creative
+│       ├── ./90-MEDIA/903-Creative/GIF
+│       └── ./90-MEDIA/903-Creative/SVG
+├── ./91-SOFTWARE
+│   ├── ./91-SOFTWARE/911-Installers
+│   ├── ./91-SOFTWARE/912-Drivers
+│   └── ./91-SOFTWARE/913-DevTools
+│       └── ./91-SOFTWARE/913-DevTools/Scripts
+├── ./99-TEMPLATE-LIB
+└── ./output.txt
+
+32 directories, 1 file
